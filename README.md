@@ -7,6 +7,7 @@
 | `tmux a -t <session>`         | Attach to session    | 
 | `prefix d`                    | Detach from session  |
 | `prefix w`                    | List sessions        |
+| `prefix )`                    | Next session         |
 
 ## Cheat Sheet
 https://tmuxcheatsheet.com/?rf=qrcode
