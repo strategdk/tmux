@@ -2,7 +2,9 @@
 
 ## Sessions
 |tmux ls        | List sessions       |
+
 |tmux a         | Attach to session   | 
+
 |prefix d       |Detach from session  |
 
 ## Cheat Sheet
