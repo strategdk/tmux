@@ -17,6 +17,11 @@
 | `prefix n`                    | Next window          |
 | `prefix l`                    | Toggle window        |
 
+## Panes
+| Command                       | Explanation          |
+| ---                           | ---                  |
+| `prefix x`                    | Close pane           |
+
 ## Cheat Sheet
 https://tmuxcheatsheet.com/?rf=qrcode
 
