@@ -9,6 +9,14 @@
 | `prefix w`                    | List sessions        |
 | `prefix )`                    | Next session         |
 
+## Windows 
+| Command                       | Explanation          |
+| ---                           | ---                  |
+| `prefix c`                    | Create new window    |
+| `prefix ,`                    | Rename window        |
+| `prefix n`                    | Next window          |
+| `prefix l`                    | Toggle window        |
+
 ## Cheat Sheet
 https://tmuxcheatsheet.com/?rf=qrcode
 
