@@ -1,10 +1,10 @@
 # TMUX
 
 ## Sessions
-| tmux ls        | List sessions       |
-
-| tmux a         | Attach to session   | 
-
+| Command        | Explanation          |
+| ---            | ---
+| tmux ls        | List sessions        |
+| tmux a         | Attach to session    | 
 | prefix d       | Detach from session  |
 
 ## Cheat Sheet
