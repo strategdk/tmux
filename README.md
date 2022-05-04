@@ -1,11 +1,11 @@
 # TMUX
 
 ## Sessions
-`tmux ls`
+`tmux ls`       List sessions
 
-``tmux a``
+``tmux a``      Attach to session
 
-```prefix d```
+```prefix d```  Detach from session
 
 ## Cheat Sheet
 https://tmuxcheatsheet.com/?rf=qrcode
