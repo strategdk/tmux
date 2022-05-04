@@ -16,6 +16,7 @@
 | `prefix ,`                    | Rename window        |
 | `prefix n`                    | Next window          |
 | `prefix l`                    | Toggle window        |
+| `prefix &`                    | Close window        |
 
 ## Panes
 | Command                       | Explanation          |
