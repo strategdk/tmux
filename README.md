@@ -1,5 +1,10 @@
 # TMUX
 
+## Sessions
+`tmux ls`
+``tmux a``
+```prefix d```
+
 ## Cheat Sheet
 https://tmuxcheatsheet.com/?rf=qrcode
 
