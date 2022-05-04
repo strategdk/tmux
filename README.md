@@ -1,11 +1,12 @@
 # TMUX
 
 ## Sessions
-| Command        | Explanation          |
-| ---            | ---
-| `tmux ls`        | List sessions        |
-| `tmux a`         | Attach to session    | 
-| `prefix d`       | Detach from session  |
+| Command                       | Explanation          |
+| ---                           | ---                  |
+| `tmux ls`                     | List sessions        |
+| `tmux a -t <session>`         | Attach to session    | 
+| `prefix d`                    | Detach from session  |
+| `prefix w`                    | List sessions        |
 
 ## Cheat Sheet
 https://tmuxcheatsheet.com/?rf=qrcode
