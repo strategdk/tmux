@@ -35,5 +35,4 @@ https://www.youtube.com/watch?v=B-1wGwvUwm8&t=934s
 
 * TMUX - https://github.com/tmux/tmux/wiki
 * TMUX Plugin Manager - https://github.com/tmux-plugins/tpm
-* Blink Shell: https://blink.sh
 * Dracula Theme - https://draculatheme.com/
