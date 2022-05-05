@@ -42,5 +42,7 @@ https://www.youtube.com/watch?v=B-1wGwvUwm8&t=934s
 export LANG=en_US.UTF-8
 
 Either
+
 export LC_CTYPE=da_DK.UTF-8
+
 export LC_CTYPE=en_US.UTF-8
