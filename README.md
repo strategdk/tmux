@@ -8,6 +8,7 @@
 | `prefix d`                    | Detach from session  |
 | `prefix w`                    | List sessions        |
 | `prefix )`                    | Next session         |
+| `prefix $`                    | Rename session       |
 
 ## Windows 
 | Command                       | Explanation          |
